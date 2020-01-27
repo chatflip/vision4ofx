@@ -1,4 +1,4 @@
-# vision2ofx
+# vision4ofx
 torchvision -> torchScript -> openFrameworks  
 
 ## Description
