@@ -30,7 +30,7 @@ keypointrcnn: 9fps
 
 
 ## convert model
-``` convert.py
+```
 $ python py/convert.py
 ```
 
